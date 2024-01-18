@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-w24/jpa02-ColeFoster08
 
-Deployed at: https://jpa02-colefoster08.dokku-08.cs.ucsb.edu
+Deployed at: http://jpa02-colefoster08.dokku-08.cs.ucsb.edu
 
 
 # About this repo
